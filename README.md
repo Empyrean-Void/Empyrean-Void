@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Empyrean-Void
 - 👀 I’m interested in Linux and programming
-- 🌱 I’m currently learning Python
+- 🌱 I'm currently learning Rust and Java
 
 <!---
 - 💞️ I’m looking to collaborate on ...
