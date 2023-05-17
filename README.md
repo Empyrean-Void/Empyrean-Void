@@ -4,11 +4,9 @@ Programming is artistic self expression
 
 ## Notable Projects
 
+- [Awesome](https://github.com/Empyrean-Void/awesome.git)
+
 - [Bspwm](https://github.com/Empyrean-Void/bspwm.git)
-
-- [Hypr](https://github.com/Empyrean-Void/hypr.git)
-
-- [Waybar](https://github.com/Empyrean-Void/waybar.git)
 
 - [Nvim](https://github.com/Empyrean-Void/nvim.git)
 
@@ -16,8 +14,4 @@ Programming is artistic self expression
 
 - Python
 
-- CSS
-
-- Java
-
-- Rust
+- Lua
