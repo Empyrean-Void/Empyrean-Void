@@ -4,7 +4,7 @@ Programming is artistic self expression
 
 ## Notable Projects
 
-- [Bspwm](https://github.com/Empyrean-Void/bspwm.git)
+- [Awesome](https://github.com/Empyrean-Void/Awesome.git)
 
 - [Nvim](https://github.com/Empyrean-Void/nvim.git)
 
