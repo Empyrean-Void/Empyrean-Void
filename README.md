@@ -6,7 +6,7 @@ Programming is artistic self expression
 
 - [Awesome](https://github.com/Empyrean-Void/Awesome.git)
 
-- [Nvim](https://github.com/Empyrean-Void/nvim.git)
+- [Neovim](https://github.com/Empyrean-Void/Neovim.git)
 
 ## Languages
 
