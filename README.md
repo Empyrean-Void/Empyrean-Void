@@ -4,8 +4,8 @@ Programming is artistic self expression
 
 ## Languages
 
-- C
+- C 👑
 
-- Python
+- Python 🐍
 
-- Shell
+- Shell 🐚
