@@ -1,6 +1,6 @@
 # Empyrean
 
-Programming is artistic self expression
+Programming is an artistic self expression
 
 ## Languages
 
@@ -8,4 +8,10 @@ Programming is artistic self expression
 
 - Lua
 
-- Shell
+- Bash
+
+- HTML
+
+- CSS
+
+- Javascript
