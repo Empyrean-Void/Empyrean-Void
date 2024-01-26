@@ -1,6 +1,6 @@
 # Empyrean
 
-Programming is an artistic self expression
+Programming is an artform
 
 ## Languages
 
